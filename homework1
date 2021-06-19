@@ -1,0 +1,16 @@
+<meta charset="utf-8">;
+<script type="text/javascript">
+        var tempCel=182;
+        var tempFar=tempCel*(9/5)+32;
+        alert (tempFar);
+    
+    
+    var admin;
+    var name;
+    name="Василий";
+    admin=name;
+    alert (admin);
+    
+    alert (1000+"108")// выражение будет равно 1000108
+      
+    </script>
